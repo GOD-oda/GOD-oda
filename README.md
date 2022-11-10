@@ -8,6 +8,7 @@
   </a>
   <a href="https://twitter.com/oskfjzp">
     <img height="20" src="https://img.shields.io/twitter/follow/GOD-oda?label=Twitter&logo=twitter&style=flat" />
+    [![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=twitter&label=SNQ2001)](https://twitter.com/oskfjzp)
   </a>
   <a href="https://github.com/GOD-oda">
     <img height="20" src="https://img.shields.io/github/followers/GOD-oda?label=follow&logo=github&style=flat" />
