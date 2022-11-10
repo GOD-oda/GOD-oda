@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=GOD-oda" alt="GOD-oda" />
   </a>
   <a href="https://twitter.com/oskfjzp">
-    <img height="20" src="https://img.shields.io/badge/GOD--oda-9cf?logo=twitter" />
+    <img height="20" src="https://img.shields.io/badge/GOD--oda-lightgray?logo=twitter" />
   </a>
   <a href="https://github.com/GOD-oda">
     <img height="20" src="https://img.shields.io/github/followers/GOD-oda?label=follow&logo=github&style=flat" />
