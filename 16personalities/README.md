@@ -1,0 +1,1 @@
+![alt](16personalities/img/2022-11-10.png)
