@@ -12,6 +12,9 @@
   <a href="https://github.com/GOD-oda">
     <img height="20" src="https://img.shields.io/github/followers/GOD-oda?label=follow&logo=github&style=flat" />
   </a>
+  <a href="https://github.com/GOD-oda/GOD-oda/tree/main/16personalities">
+    <img src="https://img.shields.io/badge/-16personalities-blue" alt="">
+  </a>
 <!--   <a href="https://www.reddit.com/user/GOD-oda"> -->
 <!--     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/GOD-oda?label=Reddit&logo=reddit&style=flat" /> -->
 <!--   </a> -->
