@@ -41,7 +41,7 @@
 
 ### Associate
 <a href="https://www.credly.com/badges/6ff136c0-1ca2-4545-82fe-446dac602cfb/public_url">
-  <img src="certifications/aws/aws-certified-solutions-architect-associate.png" width="128" height="128" alt="aws-certified-cloud-practitioner">
+  <img src="certifications/aws/aws-certified-solutions-architect-associate.png" width="128" height="128" alt="aws-certified-solutions-architect-associate">
 </a>
 
 <a href="https://www.credly.com/badges/79076627-4987-4255-b1b8-eec6382c76b6/public_url">
