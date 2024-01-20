@@ -44,6 +44,10 @@
   <img src="certifications/aws/aws-certified-solutions-architect-associate.png" width="128" height="128" alt="aws-certified-cloud-practitioner">
 </a>
 
+<a href="https://www.credly.com/badges/79076627-4987-4255-b1b8-eec6382c76b6/public_url">
+  <img src="certifications/aws/aws-certified-sysops-administrator-associate.png" width="128" height="128" alt="aws-certified-sysops-administrator-associate">
+</a>
+
 ### Professional
 
 ### Specialty
