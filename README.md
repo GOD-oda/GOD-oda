@@ -48,6 +48,10 @@
   <img src="certifications/aws/aws-certified-sysops-administrator-associate.png" width="128" height="128" alt="aws-certified-sysops-administrator-associate">
 </a>
 
+<a href="https://www.credly.com/badges/09ebb60a-d5e7-40f4-92d1-567abe584c7c/public_url">
+  <img src="certifications/aws/aws-certified-developer-associate.png" width="128" height="128" alt="aws-certified-developer-associate">
+</a>
+
 ### Professional
 
 ### Specialty
